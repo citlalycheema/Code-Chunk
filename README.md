@@ -1,6 +1,6 @@
 # Code-Chunk
 
-```
+```ruby
 ggplot(df1, aes(y = school, x = lifeexp, color = Status)) +
   geom_point(shape = 21) +
   geom_smooth(method = 'lm', se = F) +
