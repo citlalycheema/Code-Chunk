@@ -16,6 +16,6 @@ During this course, we have focused heavily on data visualization, which has bee
   )
   
   ```
-
+ The output:
 
 ![myplot](https://github.com/citlalycheema/Code-Chunk/assets/123214295/4338b580-6809-47f5-aab8-3d00dfe11656)
