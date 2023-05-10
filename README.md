@@ -1,5 +1,7 @@
 # Code-Chunk
 
+During this course, we have focused heavily on data visualization, which has been a fun learning experience. Below is a code chunk that showcases my data visualization abilities, especially with `ggplot`. It shows how I properly set the limits on the x- and y-axis, set the plot theme, label the axis, and add a title. Additionally, this specific output demonstrates the adding a variable under size can help a plot become more informative.
+
 ```ruby
   ggplot(df,  aes(x = urbanrate, y = internetuserate, size = incomeperperson)) +
   xlim(25,100) + #set x-axis
