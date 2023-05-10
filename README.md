@@ -14,3 +14,7 @@
   )
   
   ```
+
+```{r fig1, out.width = '450px'}
+  knitr::include_graphics('myplot.svg')
+```
