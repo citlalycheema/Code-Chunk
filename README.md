@@ -15,6 +15,5 @@
   
   ```
 
-```{r fig1, out.width = '450px'}
-  knitr::include_graphics('myplot.svg')
-```
+
+![myplot](https://github.com/citlalycheema/Code-Chunk/assets/123214295/4338b580-6809-47f5-aab8-3d00dfe11656)
